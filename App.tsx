@@ -66,7 +66,7 @@ const App: React.FC = () => {
               <span className="flex items-center gap-1 hover:text-white cursor-pointer"><MapPin size={12} /> Av. Principal 123, Madrid</span>
             </div>
             <div className="flex gap-3">
-              <span className="hover:text-orange-500 cursor-pointer">Envíos Gratis > $50</span>
+              <span className="hover:text-orange-500 cursor-pointer">Envíos Gratis &gt; $50</span>
             </div>
           </div>
         </div>
